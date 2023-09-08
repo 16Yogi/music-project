@@ -1,0 +1,17 @@
+body{
+    /* background: rgb(58,171,180); */
+/* background: linear-gradient(90deg, rgba(58,171,180,0.9781162464985994) 0%, rgba(29,195,253,0.8016456582633054) 39%, rgba(242,242,242,1) 100%); */
+    /* background: linear-gradient(0deg, rgba(98,229,223,1) 0%, rgba(195,238,228,1) 100%); */
+    /* background: rgb(68,207,218); */
+/* background: linear-gradient(90deg, rgba(68,207,218,0.9781162464985994) 0%, rgba(29,195,253,0.8016456582633054) 39%, rgba(242,242,242,1) 100%); */
+
+background: rgb(61,159,255);
+background: linear-gradient(90deg, rgba(61,159,255,0.9557072829131653) 0%, rgba(29,233,253,0.6363795518207283) 39%, rgba(242,242,242,1) 100%);
+}
+#nav{
+    padding: 20px 0;
+}
+
+#nav a{
+    font-weight: 700;
+}

@@ -1,0 +1,35 @@
+#banner-item{
+    height: auto;
+    width: 100%;
+}
+#banner-item #banner-item-wrap{
+    padding: 150px 0 0 0;
+}
+#banner-item #banner-item-wrap h2{
+   font-size: 65px;
+   font-weight: 300;
+}
+#banner-item #banner-item-wrap h2:nth-child(2){
+   font-weight: 700;
+}
+#banner-item #banner-item-wrap ul{
+    padding: 40px 0 0 0;
+}
+#banner-item #banner-item-wrap ul li{
+   margin: 0 15px;
+}
+#banner-item #banner-item-wrap ul li button{
+   width: 100%;
+   font-weight:700;
+   border-radius: 20px;
+   padding: 10px 40px;
+   background-color: white;
+}
+#banner-item #banner-item-wrap ul li #banner-btn-sty{
+   font-weight: 400;
+   background-color: rgba(255, 255, 255, 0.57);
+}
+#banner-item img{
+    height: auto;
+    width: 100%;
+}

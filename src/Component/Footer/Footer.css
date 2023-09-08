@@ -1,0 +1,28 @@
+#footer-container-fluid{
+    padding: 200px 0;
+    /* background-color: black; */
+}
+#footer-container-fluid h3{
+   font-size: 36px;
+   font-weight: 400;
+}
+#footer-container-fluid h6{
+   text-transform: uppercase;
+   font-weight: 700;
+   font-size: 16px;
+   padding-bottom: 20px;
+}
+#footer-container-fluid span{
+   font-size: 18px;
+}
+#footer-container-fluid a{
+   text-decoration: none;
+   font-size: 18px;
+   color: black;
+}
+#footer-container-fluid h5{
+   font-size: 16px;
+   /* line-height: 50px; */
+   padding: 40px 0;
+   /* background-color: brown; */
+}
